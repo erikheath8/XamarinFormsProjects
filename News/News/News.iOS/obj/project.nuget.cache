@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4l8aR5BQLwY/tFtgDWN32y0OHIee+W0kjSYdVaeVBCdDjKZ7bseMl9ir14BIf/MGLWHt581WEB6OCPmRetrL8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fzr60\\Documents\\projects\\xamarin\\xamarinFormsProjects\\News\\News\\News.iOS\\News.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fzr60\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\fzr60\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\fzr60\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512",
+    "C:\\Users\\fzr60\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\fzr60\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\fzr60\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
