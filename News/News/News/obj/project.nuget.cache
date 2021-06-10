@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "00dEMJrjI75WhtHxAs398D7e3h0mpfbLysa7KQif6wGilQSlnzTkxzNVQNDT+dJCOZGvdXsWoserJwNR737Yrw==",
+  "dgSpecHash": "XI7m/k2DfKyTFujXxiaBEFCGuvpxVV+uuekG7AU44f8ahWz4KXLYLzt+8EsQa4z+Q/7Flpo3q6S1Edwgkycq3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\fzr60\\Documents\\projects\\xamarin\\xamarinFormsProjects\\News\\News\\News\\News.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\fzr60\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\fzr60\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\fzr60\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\fzr60\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\fzr60\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512",
     "C:\\Users\\fzr60\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\fzr60\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
