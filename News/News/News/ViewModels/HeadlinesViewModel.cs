@@ -40,11 +40,11 @@ namespace News.ViewModels
         }
 
         public ICommand ItemSelected =>
-            new Command((selectedItem) => 
+            new Command(async (selectedItem) => 
             {
                 var selectedArticle = selectedItem as Article;
                 var url = HttpUtility.UrlEncode(selectedArticle.Url);
-                // Placeholder for more code later on
+                await Navigation.NavigateTo($"articleview?url={url}");
             });
 
     }

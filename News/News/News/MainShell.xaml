@@ -5,12 +5,32 @@
        x:Class="News.MainShell">
     <FlyoutItem Title="Home"
                 Icon="{StaticResource HomeIcon}">
-        <ShellContent Title="Headlines" Icon="{StaticResource HeadlinesIcon}" >
-            <ContentPage Title="Headlines" />
-        </ShellContent>
-        <Tab Title="News" Icon="{StaticResource NewsIcon}">
-            <ContentPage Title="Local" />
-            <ContentPage Title="Global" />
+        <ShellContent Title="Headlines" Icon="{StaticResource HeadlinesIcon}"
+                      ContentTemplate="{DataTemplate views:HeadlinesView}" />
+
+        <Tab Title="News" Route="news" Icon="{StaticResource NewsIcon}">
+            <ShellContent Title="Local" Route="local">
+                <ShellContent.ContentTemplate>
+                    <DataTemplate>
+                        <views:HeadlinesView>
+                            <x:Arguments>
+                                <x:String>Local</x:String>
+                            </x:Arguments>
+                        </views:HeadlinesView>
+                    </DataTemplate>           
+                </ShellContent.ContentTemplate>   
+            </ShellContent>
+            <ShellContent Title="Global" Route="global">
+                <ShellContent.ContentTemplate>
+                    <DataTemplate>
+                        <views:HeadlinesView>
+                            <x:Arguments>
+                                <x:String>Global</x:String>
+                            </x:Arguments>
+                        </views:HeadlinesView>
+                    </DataTemplate>
+                </ShellContent.ContentTemplate>
+            </ShellContent>
         </Tab>
     </FlyoutItem>
 
@@ -21,5 +41,4 @@
     <ShellContent Title="About" Icon="{StaticResource AboutIcon}">
         <ContentPage Title="About"/>
     </ShellContent>
-    
 </Shell>
