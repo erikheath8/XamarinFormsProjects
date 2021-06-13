@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2J6TaQc2Ee7nuZlNCbYWxiZ7AkCpN8J+fKJppTXceDwKTQQCEXnY56L/6NvjD4iM51DtUgmqnqFihzCDOByvSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fzr60\\Documents\\projects\\xamarin\\xamarinFormsProjects\\Swiper\\Swiper\\Swiper.iOS\\Swiper.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fzr60\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\fzr60\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
