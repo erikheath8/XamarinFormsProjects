@@ -11,14 +11,19 @@
                 <ColumnDefinition Width="100" />
             </Grid.ColumnDefinitions>         
             
-            <!-- ContentView for photo here -->
+            <!-- ContentView for adding controls this.photo here -->
             <ContentView x:Name="photo" Padding="40" Grid.ColumnSpan="3" >
+                <!-- photo -->
                 <Grid x:Name="photoGrid" BackgroundColor="Black" Padding="1" >
+                    <!-- Grid row height definition -->
                     <Grid.RowDefinitions>
+                        <!-- photo height row -->
                         <RowDefinition Height="*" />
+                        <!-- description row -->
                         <RowDefinition Height="40" />
                     </Grid.RowDefinitions>
 
+                    <!-- description -->
                     <BoxView BackgroundColor="White" Grid.RowSpan="2" />
                     <Image x:Name="image" Margin="10"
                            BackgroundColor="#AAAAAA"
@@ -41,8 +46,28 @@
             </ContentView>
             
             <!-- StackLayout for like here -->
+            <!-- Rendered in the third column, Opacity = 0 is completely invisible,
+                Top padding added -->
+            <StackLayout x:Name="likeStackLayout" Grid.Column="2" Opacity="0" Padding="0, 100">
+                <Label Text="LIKE"
+                       TextColor="Lime"
+                       FontSize="30"
+                       Rotation="30"
+                       FontAttributes="Bold" />
+            </StackLayout>
             
             <!-- StackLayout for deny here -->
+            <!-- Rendered in the first column by default, Opacity = 0 is completely invisible,
+                Top padding added, HorizontalOptions @ "end" = right justified -->
+            <StackLayout x:Name="denyStackLayout" Opacity="0" Padding="0, 100" HorizontalOptions="End">
+                <Label Text="DENY"
+                       TextColor="Red"
+                       FontSize="30"
+                       Rotation="-20"
+                       FontAttributes="Bold" />
+            </StackLayout>
+            
+            
                        
         </Grid>
   </ContentView.Content>

@@ -1,0 +1,15 @@
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\bin\Debug\netstandard2.0\Swiper.deps.json
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\bin\Debug\netstandard2.0\Swiper.dll
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\bin\Debug\netstandard2.0\ref\Swiper.dll
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\bin\Debug\netstandard2.0\Swiper.pdb
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\Swiper.csproj.AssemblyReference.cache
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\Controls\SwiperControl.xaml.g.cs
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\Swiper.AssemblyInfoInputs.cache
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\Swiper.AssemblyInfo.cs
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\Swiper.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\Swiper.dll
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\ref\Swiper.dll
+C:\Users\fzr60\Documents\projects\xamarin\xamarinFormsProjects\Swiper\Swiper\Swiper\obj\Debug\netstandard2.0\Swiper.pdb

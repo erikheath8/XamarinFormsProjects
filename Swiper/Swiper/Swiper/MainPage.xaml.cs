@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Swiper.Controls;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace Swiper
         public MainPage()
         {
             InitializeComponent();
+            MainGrid.Children.Add(new SwiperControl());
         }
     }
 }
