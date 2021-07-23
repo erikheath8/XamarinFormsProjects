@@ -1,0 +1,14 @@
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\bin\Debug\netstandard2.0\GalleryApp.deps.json
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\bin\Debug\netstandard2.0\GalleryApp.dll
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\bin\Debug\netstandard2.0\ref\GalleryApp.dll
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\bin\Debug\netstandard2.0\GalleryApp.pdb
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.AssemblyInfoInputs.cache
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.AssemblyInfo.cs
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.dll
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\ref\GalleryApp.dll
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.pdb
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.csproj.AssemblyReference.cache

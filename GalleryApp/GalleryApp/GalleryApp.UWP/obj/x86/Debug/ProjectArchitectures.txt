@@ -1,0 +1,1 @@
+C:\Users\fzr60\Documents\projects\cSharp\xamarin\xamarinFormsProjects\GalleryApp\GalleryApp\GalleryApp.UWP\GalleryApp.UWP.csproj;x86
